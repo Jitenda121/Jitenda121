@@ -1,4 +1,4 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/03/67/89/85/1000_F_367898595_6pz7ALMD0fSZZGlF2sEvblrxV03Hue7r.jpg)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBiZHI5azRvd3A2d2x0ZHk4MGliM3l5M3NxdXJ3Ymh1M2ljcmljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 <h1 align="center">Hi 👋, I'm Jitendra Yadav</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
